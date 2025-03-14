@@ -4,3 +4,6 @@ function sayhello(nama){
 function sayyguest(guest){
     return"hello"+ guest;
 }
+function saygood(nama){
+    return"goodjob"+ nama;
+}
